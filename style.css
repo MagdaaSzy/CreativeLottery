@@ -1,0 +1,26 @@
+h2 {
+    color: rgb(179, 0, 134);
+    font-style: Candara;
+}
+
+h4 {
+    font-weight: normal;
+    font-style: Candara;
+}
+
+body {
+    background-image: url("https://cdn.stocksnap.io/img-thumbs/960w/SWKBAF0RNQ.jpg");
+}
+
+textarea:hover {
+    background-color: rgb(187, 219, 240);
+    position: absolute center;
+}
+
+#lottery {
+    position: absolute center;
+}
+
+#timer {
+    position: absolute center;
+}
